@@ -14,3 +14,4 @@ The Pearson correlation coefficient is r = 0.45, indicating a moderate positive 
 
 
 Task 2
+I have uploaded the provided CSV file n_ghviniashvili25_15289.csv to my GitHub repository which I have used as an input for my python application: 
