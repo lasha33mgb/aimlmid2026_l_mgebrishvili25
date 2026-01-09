@@ -1,6 +1,7 @@
 # aimlmid2026_l_mgebrishvili25
 
 Task 1
+
 Finding the Correlation (Pearson) 
 The dataset was obtained from an interactive online graph, where each blue point represents a data observation.
 The coordinate values were manually extracted by inspecting the graph and noting the displayed values.
